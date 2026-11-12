@@ -99,7 +99,7 @@ Program 02 是第二阶段应用，基于 Program 01 的输出继续进行人工
 Download desktop applications from GitHub Releases:
 
 ```text
-https://github.com/KOEIIIII/KoeiNet/releases
+https://github.com/mark6880/KoeiNet/releases
 ```
 
 For a packaged Windows release, download all parts named like the examples above and the `Join_And_Extract.bat` helper. Put the downloaded files in the same folder and run the batch file to join and extract the packaged runtime.
